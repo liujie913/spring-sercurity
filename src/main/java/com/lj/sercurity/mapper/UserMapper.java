@@ -1,4 +1,4 @@
-package com.lj.sercurity.dao;
+package com.lj.sercurity.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.lj.sercurity.model.User;
